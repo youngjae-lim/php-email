@@ -1,8 +1,8 @@
 {
     "require": {
-        "phpmailer/phpmailer": "~5.2",
-        "php-amqplib/php-amqplib": "2.6.*",
-        "rybakit/msgpack": "^0.1.0"
+        "phpmailer/phpmailer": "^6.6",
+        "php-amqplib/php-amqplib": "^3.2",
+        "rybakit/msgpack": "^0.9.1"
     },
     "autoload": {
         "classmap": [
